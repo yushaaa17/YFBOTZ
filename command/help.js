@@ -517,4 +517,4 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `*List Sewa?* _Murah kok cuma 10k/bulan:v_`
+exports.sewanya = `*List Sewa?* _Murah kok kak cuma 10k/bulan:v_`
